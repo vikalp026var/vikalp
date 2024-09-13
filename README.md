@@ -69,10 +69,7 @@ Here are some projects that showcase my skills:
   - Implemented a text summarization solution using the Google Pegasus model from Hugging Face, trained on the Samsum dataset for effective summarization of dialogue-based content.
   - Deployed the application on AWS for reliable hosting, enabling users to access the service from anywhere.
 
-Check out my repositories to explore more of my work! 🚀
 
-## 📊 GitHub Stats
-![Vikalp's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikalp026varshney&show_icons=true&theme=radical)
 
 ## 🌐 Connect with Me
 - LinkedIn: [Vikalp Varshney](https://www.linkedin.com/in/vikalp-varshney-29085724b/)
